@@ -2,18 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="06cba6ce-3db7-4025-ae63-f13aa2b16325" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Week_01/.idea/Week_01.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week_01/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week_01/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week_01/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week_01/.idea/thriftCompiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week_01/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week_01/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week_02/Week_02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/algorithm021.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/algorithm021.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_03/Week_03.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week_01/out/production/algorithm021/src/Week01.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week_01/src/src/Week01.java" beforeDir="false" afterPath="$PROJECT_DIR$/Week_01/src/src/Week01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week_01/out/production/algorithm021/src/src/test.class" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -33,30 +24,29 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Week_01/src/src/test.java">
+        <entry file="file://$PROJECT_DIR$/Week_02/Week_02.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="15" column="61" selection-start-line="15" selection-start-column="61" selection-end-line="15" selection-end-column="61" />
+            <state relative-caret-position="3680">
+              <caret line="163" column="5" selection-start-line="143" selection-start-column="4" selection-end-line="163" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Week_02/Week_02.java">
+        <entry file="file://$PROJECT_DIR$/Week_03/Week_03.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="381">
-              <caret line="83" column="4" selection-start-line="83" selection-start-column="4" selection-end-line="87" selection-end-column="5" />
+            <state relative-caret-position="393">
+              <caret line="214" column="1" selection-start-line="214" selection-start-column="1" selection-end-line="214" selection-end-column="1" />
               <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#710#724#0" expanded="true" />
-                <element signature="e#1227#1245#0" expanded="true" />
-                <element signature="e#1647#1656#0" expanded="true" />
-                <element signature="e#2486#2495#0" expanded="true" />
-                <element signature="e#1359#1368#0" expanded="true" />
-                <element signature="e#1457#1458#0" expanded="true" />
-                <element signature="e#1493#1494#0" expanded="true" />
-                <element signature="e#1332#1350#0" expanded="true" />
-                <element signature="e#1550#1559#0" expanded="true" />
+                <element signature="e#752#753#0" expanded="true" />
+                <element signature="e#802#803#0" expanded="true" />
+                <element signature="e#3235#3254#0" expanded="true" />
+                <element signature="e#3532#3540#0" expanded="true" />
+                <element signature="e#4160#4161#0" expanded="true" />
+                <element signature="e#4191#4192#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -83,6 +73,7 @@
         <option value="$PROJECT_DIR$/Week_01/src/src/Week01.java" />
         <option value="$PROJECT_DIR$/Week_01/src/src/test.java" />
         <option value="$PROJECT_DIR$/Week_02/Week_02.java" />
+        <option value="$PROJECT_DIR$/Week_03/Week_03.java" />
       </list>
     </option>
   </component>
@@ -90,8 +81,8 @@
     <servers />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="616" />
-    <option name="y" value="308" />
+    <option name="x" value="225" />
+    <option name="y" value="190" />
     <option name="width" value="1280" />
     <option name="height" value="975" />
   </component>
@@ -100,6 +91,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -113,17 +105,21 @@
               <item name="algorithm021" type="462c0819:PsiDirectoryNode" />
               <item name="Week_02" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="algorithm021" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithm021" type="462c0819:PsiDirectoryNode" />
+              <item name="Week_03" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1607848350767" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1608495385857" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -186,18 +182,20 @@
       <option name="presentableId" value="Default" />
       <updated>1607241512973</updated>
       <workItem from="1607241515622" duration="5001000" />
-      <workItem from="1607845979150" duration="883000" />
+      <workItem from="1607845979150" duration="1584000" />
+      <workItem from="1608175375550" duration="124000" />
+      <workItem from="1608494693696" duration="682000" />
+      <workItem from="1608495500925" duration="1326000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5884000" />
+    <option name="totallyTimeSpent" value="8717000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="616" y="308" width="1280" height="975" extended-state="0" />
-    <editor active="true" />
+    <frame x="225" y="190" width="1280" height="975" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.33656958" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.35436893" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -211,7 +209,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.47851336" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.47851336" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.329849" />
@@ -272,19 +270,25 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Week_02/Week_02.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="381">
-          <caret line="83" column="4" selection-start-line="83" selection-start-column="4" selection-end-line="87" selection-end-column="5" />
+        <state relative-caret-position="3680">
+          <caret line="163" column="5" selection-start-line="143" selection-start-column="4" selection-end-line="163" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#710#724#0" expanded="true" />
-            <element signature="e#1227#1245#0" expanded="true" />
-            <element signature="e#1647#1656#0" expanded="true" />
-            <element signature="e#2486#2495#0" expanded="true" />
-            <element signature="e#1359#1368#0" expanded="true" />
-            <element signature="e#1457#1458#0" expanded="true" />
-            <element signature="e#1493#1494#0" expanded="true" />
-            <element signature="e#1332#1350#0" expanded="true" />
-            <element signature="e#1550#1559#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week_03/Week_03.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="393">
+          <caret line="214" column="1" selection-start-line="214" selection-start-column="1" selection-end-line="214" selection-end-column="1" />
+          <folding>
+            <element signature="e#752#753#0" expanded="true" />
+            <element signature="e#802#803#0" expanded="true" />
+            <element signature="e#3235#3254#0" expanded="true" />
+            <element signature="e#3532#3540#0" expanded="true" />
+            <element signature="e#4160#4161#0" expanded="true" />
+            <element signature="e#4191#4192#0" expanded="true" />
           </folding>
         </state>
       </provider>
