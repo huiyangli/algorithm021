@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="06cba6ce-3db7-4025-ae63-f13aa2b16325" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Week_03/Week_03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_04/Week04.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week_01/out/production/algorithm021/src/src/test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week_01/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Week_01/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week_04/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Week_04/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -26,7 +27,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Week_02/Week_02.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3680">
+            <state relative-caret-position="3703">
               <caret line="163" column="5" selection-start-line="143" selection-start-column="4" selection-end-line="163" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -35,19 +36,65 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Week_03/Week_03.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="393">
+            <state relative-caret-position="4922">
               <caret line="214" column="1" selection-start-line="214" selection-start-column="1" selection-end-line="214" selection-end-column="1" />
               <folding>
                 <element signature="e#752#753#0" expanded="true" />
                 <element signature="e#802#803#0" expanded="true" />
-                <element signature="e#3235#3254#0" expanded="true" />
-                <element signature="e#3532#3540#0" expanded="true" />
                 <element signature="e#4160#4161#0" expanded="true" />
                 <element signature="e#4191#4192#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Week_01/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="23">
+                <caret line="1" column="14" selection-start-line="1" selection-end-line="2" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Week_03/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="46">
+                <caret line="2" selection-start-line="2" selection-end-line="2" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Week_04/Week04.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-2338">
+              <caret line="29" column="10" lean-forward="true" selection-start-line="29" selection-start-column="10" selection-end-line="29" selection-end-column="10" />
+              <folding>
+                <element signature="e#225#233#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Week_04/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="184">
+                <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -74,6 +121,9 @@
         <option value="$PROJECT_DIR$/Week_01/src/src/test.java" />
         <option value="$PROJECT_DIR$/Week_02/Week_02.java" />
         <option value="$PROJECT_DIR$/Week_03/Week_03.java" />
+        <option value="$PROJECT_DIR$/Week_03/README.md" />
+        <option value="$PROJECT_DIR$/Week_04/Week04.java" />
+        <option value="$PROJECT_DIR$/Week_04/README.md" />
       </list>
     </option>
   </component>
@@ -83,7 +133,7 @@
   <component name="ProjectFrameBounds">
     <option name="x" value="225" />
     <option name="y" value="190" />
-    <option name="width" value="1280" />
+    <option name="width" value="1787" />
     <option name="height" value="975" />
   </component>
   <component name="ProjectView">
@@ -91,8 +141,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -103,23 +151,20 @@
             <path>
               <item name="algorithm021" type="b2602c69:ProjectViewProjectNode" />
               <item name="algorithm021" type="462c0819:PsiDirectoryNode" />
-              <item name="Week_02" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="algorithm021" type="b2602c69:ProjectViewProjectNode" />
-              <item name="algorithm021" type="462c0819:PsiDirectoryNode" />
-              <item name="Week_03" type="462c0819:PsiDirectoryNode" />
+              <item name="Week_04" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1608495385857" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1609122666654" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -129,6 +174,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Week_03" />
       <recent name="$PROJECT_DIR$/Week_01" />
     </key>
   </component>
@@ -185,17 +231,19 @@
       <workItem from="1607845979150" duration="1584000" />
       <workItem from="1608175375550" duration="124000" />
       <workItem from="1608494693696" duration="682000" />
-      <workItem from="1608495500925" duration="1326000" />
+      <workItem from="1608495500925" duration="1473000" />
+      <workItem from="1609119068408" duration="1112000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8717000" />
+    <option name="totallyTimeSpent" value="9976000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="225" y="190" width="1280" height="975" extended-state="0" />
+    <frame x="225" y="190" width="1787" height="975" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.35436893" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25588065" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -209,7 +257,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.47851336" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.35888502" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.329849" />
@@ -244,20 +292,18 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Week_01/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="23">
-            <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Week_01/src/src/test.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="345">
           <caret line="15" column="61" selection-start-line="15" selection-start-column="61" selection-end-line="15" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week_02/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
         </state>
       </provider>
     </entry>
@@ -270,7 +316,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Week_02/Week_02.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3680">
+        <state relative-caret-position="3703">
           <caret line="163" column="5" selection-start-line="143" selection-start-column="4" selection-end-line="163" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -280,16 +326,54 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Week_03/Week_03.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="393">
+        <state relative-caret-position="4922">
           <caret line="214" column="1" selection-start-line="214" selection-start-column="1" selection-end-line="214" selection-end-column="1" />
           <folding>
             <element signature="e#752#753#0" expanded="true" />
             <element signature="e#802#803#0" expanded="true" />
-            <element signature="e#3235#3254#0" expanded="true" />
-            <element signature="e#3532#3540#0" expanded="true" />
             <element signature="e#4160#4161#0" expanded="true" />
             <element signature="e#4191#4192#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week_01/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="23">
+            <caret line="1" column="14" selection-start-line="1" selection-end-line="2" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week_03/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="46">
+            <caret line="2" selection-start-line="2" selection-end-line="2" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week_04/Week04.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2338">
+          <caret line="29" column="10" lean-forward="true" selection-start-line="29" selection-start-column="10" selection-end-line="29" selection-end-column="10" />
+          <folding>
+            <element signature="e#225#233#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week_04/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="184">
+            <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
